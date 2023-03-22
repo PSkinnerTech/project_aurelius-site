@@ -1,3 +1,3 @@
 # Project Aurelius AI
 
-I'll be adding some detailed notes on here over time.  At some point, I believe I'll shoot a step-by-step video on how I created this website using React JS.
+This website is developed using ReactJS for a client. The client has agreed to let me keep this repository open specifically for my portfolio.
