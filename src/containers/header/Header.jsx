@@ -7,14 +7,14 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">
-        Let&apos;s Build Something amazing with GPT-3 OpenAI
+        Let&apos;s Build Something amazing with Artificial Intelligence
       </h1>
       <p>
         We specialize in helping small and middle tier businesses leverage AI
         technology to create personalized solutions that help them thrive. Our
         team of experts can turn your ideas into reality and take your business
-        to the next level with GPT3 OpenAI. Let's build something amazing
-        together.
+        to the next level with Artificial Intelligence. Let's build something
+        amazing together.
       </p>
 
       <div className="gpt3__header-content__input">

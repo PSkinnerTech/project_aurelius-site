@@ -13,8 +13,8 @@ const Possibility = () => (
         The possibilities are <br /> Endless.
       </h1>
       <p>
-        GPT-3 offers endless possibilities for content creation, customer
-        service, personalization, data analysis, education, voice assistants,
+        AI offers endless possibilities for content creation, customer service,
+        personalization, data analysis, education, voice assistants,
         translation, and creative writing, revolutionizing how we interact with
         technology and communicate.
       </p>
